@@ -31,6 +31,7 @@ Welcome to this comprehensive **6-month roadmap** designed to help beginners and
 - Follow the detailed guides in the `/docs` folder.  
 - Practice hands-on projects for real experience.  
 - Use the resources and tutorials linked for deeper learning.
+- See [docs/month1_linux_networking_git.md](docs/month1_linux_networking_git.md) for details.
 
 ---
 
@@ -52,7 +53,7 @@ See [docs/month1_linux_networking_git.md](docs/month1_linux_networking_git.md) f
 - Security Groups & Key Pairs  
 - AWS CLI & Console Usage
 
-See [docs/month2_aws_basics.md](docs/month2_aws_basics.md)
+See [docs/month2_aws_basics.md](README.md)
 
 ---
 
@@ -63,7 +64,7 @@ See [docs/month2_aws_basics.md](docs/month2_aws_basics.md)
 - Dockerfile & Docker Compose  
 - Managing Volumes & Networks
 
-See [docs/month3_docker.md](docs/month3_docker.md)
+See [docs/month3_docker.md](README.md)
 
 ---
 
