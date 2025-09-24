@@ -52,8 +52,134 @@ See [docs/month1_linux_networking_git.md](docs/month1_linux_networking_git.md) f
 - EC2, S3, VPC Basics  
 - Security Groups & Key Pairs  
 - AWS CLI & Console Usage
+- # AWS Cloud Fundamentals
 
-See [README.md](README.md)
+Welcome to the **AWS Cloud Fundamentals** repository!  
+This repo is designed to provide you a strong foundation in Amazon Web Services (AWS) for Cloud and DevOps careers.
+
+---
+
+## Why Learn AWS?
+
+- AWS is the #1 cloud service provider globally.  
+- Powers millions of businesses and startups.  
+- Understanding AWS is crucial for cloud architects, engineers, and DevOps professionals.
+
+---
+
+## Contents
+
+- AWS Basics & Global Infrastructure  
+- AWS Account Setup & IAM (Identity and Access Management)  
+- Core Services: EC2, S3, VPC  
+- Security Basics  
+- AWS CLI & SDKs  
+- Monitoring & Management Tools  
+- Hands-on Labs & Projects  
+- Resources & Certification Paths
+
+---
+
+## Getting Started
+
+1. Create a free AWS account:  
+   [AWS Free Tier](https://aws.amazon.com/free/)
+
+2. Follow the sections below to build your knowledge step-by-step.
+
+---
+
+## AWS Global Infrastructure
+
+- Regions and Availability Zones (AZs)  
+- Edge Locations & CDN (CloudFront)  
+- Understanding fault tolerance and scalability
+
+---
+
+## AWS Account Setup
+
+- Create your AWS account (use MFA)  
+- Set up IAM users, groups, and roles  
+- Best practices for security
+
+---
+
+## Core AWS Services
+
+### EC2 (Elastic Compute Cloud)
+
+- Virtual servers in the cloud  
+- Launching, connecting (SSH), and managing instances  
+- Instance types and pricing models
+
+### S3 (Simple Storage Service)
+
+- Object storage for any amount of data  
+- Buckets, objects, and access control  
+- Lifecycle policies and versioning
+
+### VPC (Virtual Private Cloud)
+
+- Network isolation in AWS  
+- Subnets, route tables, internet gateways  
+- Security groups and network ACLs
+
+---
+
+## AWS Security Basics
+
+- IAM policies and roles  
+- Encryption options  
+- Monitoring with AWS CloudTrail & CloudWatch
+
+---
+
+## AWS CLI & SDKs
+
+- Install and configure AWS CLI  
+- Use CLI commands to manage AWS resources  
+- Introduction to AWS SDKs (Python boto3, Node.js, etc.)
+
+---
+
+## Monitoring & Management
+
+- AWS CloudWatch for metrics and alarms  
+- AWS CloudTrail for auditing  
+- Cost Management & Budgets
+
+---
+
+## Hands-on Practice
+
+- Launch EC2 instance and connect via SSH  
+- Create and configure S3 bucket  
+- Set up a custom VPC with public and private subnets  
+- Use AWS CLI to automate resource management
+
+---
+
+## Projects
+
+- Host a static website on S3  
+- Create a scalable web app using EC2 and Auto Scaling  
+- Implement secure access with IAM roles and policies
+
+---
+
+## Certification Path
+
+- AWS Certified Cloud Practitioner (beginner)  
+- AWS Certified Solutions Architect - Associate
+
+---
+
+
+
+
+
+
 
 ---
 
