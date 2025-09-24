@@ -53,7 +53,7 @@ See [docs/month1_linux_networking_git.md](docs/month1_linux_networking_git.md) f
 - Security Groups & Key Pairs  
 - AWS CLI & Console Usage
 
-See [docs/month2_aws_basics.md](README.md)
+See [README.md](README.md)
 
 ---
 
